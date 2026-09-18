@@ -35,31 +35,63 @@
 
 ## Featured
 
-<div align="center">
+<h3 align="center">Experience</h3>
 
-### Experience
+<details>
+<summary><b>FlowQ</b> &nbsp; Full Stack Developer (Dec 2025 – Jul 2026)</summary>
+<br>
+- Developed and refactored backend services and REST APIs using PHP/Symfony and PostgreSQL to improve code maintainability, performance, and scalability.<br>
+- Built front-end applications using Angular and TypeScript, integrating them with backend services through REST APIs.
+<br><br>
+</details>
 
-- **FlowQ**, Full Stack Developer (Dec 2025 – Jul 2026)
-  - Developed and refactored backend services and REST APIs using PHP/Symfony and PostgreSQL to improve code maintainability, performance, and scalability.
-  - Built front-end applications using Angular and TypeScript, integrating them with backend services through REST APIs.
-- **Turkish Technology**, Software Analyst Intern (Jul – Aug 2025)
-  - Gave analytical support for cockpit software solutions for Turkish Airlines pilots, in the Team Support Solutions unit.
-- **Orka Holding (Damat, Tween, D'S)**, AI & Data Analyst Intern (Dec 2024 – Apr 2025)
-  - Applied AI prediction models and data analysis to design CRM business strategies.
-  - Extracted and organized data with SQL, and built Power BI dashboards to deliver insights for KPI development.
-- **AI and Technology Academy**, Trainee (Dec 2024 – Jul 2025)
-  - Won 1st place out of 137 teams in the Academy Ideathon with an LLM project providing transparency in information access.
-  - Built Talk 2-2, a website delivering AI-driven speech analysis and personalized communication feedback, developed with team members during graduation bootcamp.
-- **Google Developer Student Clubs BAU**, Organization Team Leader (Oct 2023 – Dec 2024)
-  - Led a multidisciplinary team to plan and execute Google tech events.
-  - Organized 20+ events across two academic semesters.
-- **Scooter Robotics**, Software Developer & Project Manager (Feb – Aug 2023)
-  - Managed Agile Scrum projects and built unmanned surface vehicle (USV) interfaces in Unity.
-- **Google Game and Application Academy**, Trainee (Dec 2021 – Jun 2022)
-  - Developed an isometric RPG game with a team during graduation bootcamp.
-  - Completed 7-month Unity training in 2D/3D development, entrepreneurship, and project management.
+<details>
+<summary><b>Turkish Technology</b> &nbsp; Software Analyst Intern (Jul – Aug 2025)</summary>
+<br>
+- Gave analytical support for cockpit software solutions for Turkish Airlines pilots, in the Team Support Solutions unit.
+<br><br>
+</details>
 
-### Projects
+<details>
+<summary><b>Orka Holding (Damat, Tween, D'S)</b> &nbsp; AI & Data Analyst Intern (Dec 2024 – Apr 2025)</summary>
+<br>
+- Applied AI prediction models and data analysis to design CRM business strategies.<br>
+- Extracted and organized data with SQL, and built Power BI dashboards to deliver insights for KPI development.
+<br><br>
+</details>
+
+<details>
+<summary><b>AI and Technology Academy</b> &nbsp; Trainee (Dec 2024 – Jul 2025)</summary>
+<br>
+- Won 1st place out of 137 teams in the Academy Ideathon with an LLM project providing transparency in information access.<br>
+- Built Talk 2-2, a website delivering AI-driven speech analysis and personalized communication feedback, developed with team members during graduation bootcamp.
+<br><br>
+</details>
+
+<details>
+<summary><b>Google Developer Student Clubs BAU</b> &nbsp; Organization Team Leader (Oct 2023 – Dec 2024)</summary>
+<br>
+- Led a multidisciplinary team to plan and execute Google tech events.<br>
+- Organized 20+ events across two academic semesters.
+<br><br>
+</details>
+
+<details>
+<summary><b>Scooter Robotics</b> &nbsp; Software Developer & Project Manager (Feb – Aug 2023)</summary>
+<br>
+- Managed Agile Scrum projects and built unmanned surface vehicle (USV) interfaces in Unity.
+<br><br>
+</details>
+
+<details>
+<summary><b>Google Game and Application Academy</b> &nbsp; Trainee (Dec 2021 – Jun 2022)</summary>
+<br>
+- Developed an isometric RPG game with a team during graduation bootcamp.<br>
+- Completed 7-month Unity training in 2D/3D development, entrepreneurship, and project management.
+<br><br>
+</details>
+
+<h3 align="center">Projects</h3>
 
 - **FILTREAL** (YOLO, LLaMA)
   - An LLM project that combines vision and language models. Won first place among 137 teams at the AI Ideathon, organized by the AI and Technology Academy.
@@ -68,14 +100,12 @@
 - **Talk 2-2** (AI, Web)
   - A website that analyzes your speech with AI and gives personalized communication feedback.
 
-### Ideathons
+<h3 align="center">Ideathons</h3>
 
-- **1st place**, AI Ideathon (February 2025)
+- **1st place**, AI Ideathon (Feb 2025)
   - Won 1st place out of 137 teams with our LLM project in the AI and Data Science category. The goal of our project was to ensure transparency in the process of accessing accurate and reliable information.
-- **3rd place**, Alternatif Bank Ideathon (April 2021)
+- **3rd place**, Alternatif Bank Ideathon (Apr 2021)
   - Won 3rd place with my team members by customizing QR system that helps banking transactions for disabled people.
-
-</div>
 
 <br>
 
