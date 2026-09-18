@@ -111,7 +111,7 @@
 - **3rd place**, Alternatif Bank Ideathon (Apr 2021)
   - Won 3rd place with my team members by customizing QR system that helps banking transactions for disabled people.
 
-<br>
+---
 
 | Toolbox | |
 | :-- | :-- |
@@ -120,7 +120,7 @@
 | **Cloud and tools** | <img src="https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=fff" alt="AWS"> <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=fff" alt="Git"> <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=fff" alt="GitHub"> |
 | **Apps and games** | <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=fff" alt="Unity"> <img src="https://img.shields.io/badge/Android%20Studio-000?style=flat-square&logo=androidstudio&logoColor=fff" alt="Android Studio"> |
 
-<br>
+---
 
 ## Elsewhere
 
