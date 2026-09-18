@@ -35,7 +35,7 @@
 
 ## Featured
 
-<h3 align="center">Experience</h3>
+### Experience
 
 <details>
 <summary><b>FlowQ</b> &nbsp; Full Stack Developer (Dec 2025 – Jul 2026)</summary>
@@ -91,7 +91,9 @@
 <br><br>
 </details>
 
-<h3 align="center">Projects</h3>
+---
+
+### Projects
 
 - **FILTREAL** (YOLO, LLaMA)
   - An LLM project that combines vision and language models. Won first place among 137 teams at the AI Ideathon, organized by the AI and Technology Academy.
@@ -100,7 +102,9 @@
 - **Talk 2-2** (AI, Web)
   - A website that analyzes your speech with AI and gives personalized communication feedback.
 
-<h3 align="center">Ideathons</h3>
+---
+
+### Ideathons
 
 - **1st place**, AI Ideathon (Feb 2025)
   - Won 1st place out of 137 teams with our LLM project in the AI and Data Science category. The goal of our project was to ensure transparency in the process of accessing accurate and reliable information.
