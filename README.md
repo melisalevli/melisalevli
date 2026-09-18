@@ -9,12 +9,6 @@
   </picture>
 </div>
 
-<p align="center">
-  <a href="#experience">Full Stack Developer</a> ·
-  <a href="#experience">Software Analyst</a> ·
-  <a href="#experience">AI &amp; Data Analyst</a> ·
-</p>
-
 <br>
 
 <table>
@@ -23,7 +17,7 @@
 
 ### Editor's note
 
-I like work where data, AI and product thinking meet.
+- I like work where data, AI and product thinking meet.
 
 </td>
 <td width="50%" valign="top">
@@ -99,15 +93,20 @@ I like work where data, AI and product thinking meet.
 
 ### Projects
 
-- **FILTREAL** (YOLO, LLaMA). An LLM project that combines vision and language models. Won first place among 137 teams at the AI Ideathon, organized by the AI and Technology Academy.
-- **Telecom Churn Prediction** (Python, XGBoost, Optuna). My capstone: a scalable model that predicts customer churn. Handled class imbalance with SMOTE, ADASYN, ROS, RUS and SMOTE-ENN, tuned XGBoost, Random Forest, SVM and ANN models with Optuna and cross-validation, and turned feature importances into business strategy.
-- **Talk 2-2** (AI, Web). A website that analyzes your speech with AI and gives personalized communication feedback.
+- **FILTREAL** (YOLO, LLaMA).
+  An LLM project that combines vision and language models. Won first place among 137 teams at the AI Ideathon, organized by the AI and Technology Academy.
+- **Telecom Churn Prediction** (Python, XGBoost, Optuna).
+  My capstone: a scalable model that predicts customer churn. Handled class imbalance with SMOTE, ADASYN, ROS, RUS and SMOTE-ENN, tuned XGBoost, Random Forest, SVM and ANN models with Optuna and cross-validation, and turned feature importances into business strategy.
+- **Talk 2-2** (AI, Web).
+  A website that analyzes your speech with AI and gives personalized communication feedback.
 
 
-### Recognition
+### Ideathons
 
-- **1st place**, AI Ideathon, February 2025. 137 teams.
-- **3rd place**, Alternatif Bank Ideathon, April 2021. A QR-based system that makes banking easier for people with disabilities.
+- **1st place**, AI Ideathon, February 2025.
+  Won 1st place out of 137 teams with our LLM project in the AI and Data Science category. The goal of our project was to ensure transparency in the process of accessing accurate and reliable information.
+- **3rd place**, Alternatif Bank Ideathon, April 2021.
+  Won 3rd place with my team members by customizing QR system that helps banking transactions for disabled people.
 
 <br>
 
