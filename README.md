@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://ghchart.rshah.org/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
-</div>
-
 <div align="center">
+  <img src="https://ghchart.rshah.org/000000/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
+</div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
     <img src="assets/cover-light.svg" width="100%" alt="Melis Alevli, computer and management engineer and master's student. Cover with animated chrome liquid-metal spheres.">
