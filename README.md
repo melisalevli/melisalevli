@@ -30,7 +30,6 @@ I like work where data, AI and product thinking meet.
 
 - Master of Science in Computer Science (AI focus), United States
 - Previously a full stack developer at **FlowQ** (Dec 2025 – Jul 2026)
-- Ask me about: machine learning, LLM projects, data analysis, Unity, organizing tech events
 
 </td>
 </tr>
@@ -45,7 +44,8 @@ I like work where data, AI and product thinking meet.
 <details>
 <summary><b>FlowQ</b> &nbsp; Full Stack Developer (Dec 2025 – Jul 2026)</summary>
 <br>
-Worked on full-stack development.
+-Developed and refactored backend services and REST APIs using PHP/Symfony and PostgreSQL to improve code maintainability, performance, and scalability.
+-Built front-end applications using Angular and TypeScript, integrating them with backend services through REST APIs.
 <br><br>
 </details>
 
@@ -59,21 +59,24 @@ Gave analytical support for cockpit software solutions for Turkish Airlines pilo
 <details>
 <summary><b>Orka Holding (Damat, Tween, D'S)</b> &nbsp; AI & Data Analyst Intern (Dec 2024 – Apr 2025)</summary>
 <br>
-Applied AI prediction models and SQL analysis to design CRM strategies, and supported KPI development in Power BI.
+-Applied AI prediction models and data analysis to design CRM business strategies.
+-Extracted and organized data with SQL, and built Power BI dashboards to deliver insights for KPI development.
 <br><br>
 </details>
 
 <details>
 <summary><b>AI and Technology Academy</b> &nbsp; Trainee (Dec 2024 – Jul 2025)</summary>
 <br>
-Built Talk 2-2.
+-Won 1st place out of 137 teams in the Academy Ideathon with an LLM project providing transparency in information access.
+-Built Talk 2-2, a website delivering AI-driven speech analysis and personalized communication feedback, developed with team members during graduation bootcamp.
 <br><br>
 </details>
 
 <details>
 <summary><b>Google Developer Student Clubs BAU</b> &nbsp; Organization Team Leader (Oct 2023 – Dec 2024)</summary>
 <br>
-Led a multidisciplinary team that planned and ran 20+ technology events in two semesters.
+-Led a multidisciplinary team to plan and execute Google tech events.
+-Organized 20+ events across two academic semesters.
 <br><br>
 </details>
 
@@ -87,14 +90,15 @@ Managed Agile Scrum projects and built unmanned surface vehicle (USV) interfaces
 <details>
 <summary><b>Google Game and Application Academy</b> &nbsp; Trainee (Dec 2021 – Jun 2022)</summary>
 <br>
-Completed an intensive 2D and 3D Unity game development bootcamp.
+-Developed an isometric RPG game with a team during graduation bootcamp.
+-Completed 7-month Unity training in 2D/3D development, entrepreneurship, and project management.
 <br><br>
 </details>
 
 ### Projects
 
 - **FILTREAL** (YOLO, LLaMA). An LLM project that combines vision and language models. Won first place among 137 teams at the AI Ideathon, organized by the AI and Technology Academy.
-- **Telecom churn prediction** (Python, XGBoost, Optuna). My capstone: a scalable model that predicts customer churn. Handled class imbalance with SMOTE, ADASYN, ROS, RUS and SMOTE-ENN, tuned XGBoost, Random Forest, SVM and ANN models with Optuna and cross-validation, and turned feature importances into business strategy.
+- **Telecom Churn Prediction** (Python, XGBoost, Optuna). My capstone: a scalable model that predicts customer churn. Handled class imbalance with SMOTE, ADASYN, ROS, RUS and SMOTE-ENN, tuned XGBoost, Random Forest, SVM and ANN models with Optuna and cross-validation, and turned feature importances into business strategy.
 - **Talk 2-2** (AI, Web). A website that analyzes your speech with AI and gives personalized communication feedback.
 
 
