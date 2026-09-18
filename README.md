@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ghchart.rshah.org/000000/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melisalevli&show_icons=true&bg_color=0d1117&title_color=EFCFDA&icon_color=EFCFDA&text_color=ffffff&border_color=EFCFDA" alt="GitHub Stats" />
 </div>
 
 <div align="center">
