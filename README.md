@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ghchart.rshah.org/EFCFDA/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
+  <img src="https://ghchart.rshah.org/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
 </div>
 
 <div align="center">
