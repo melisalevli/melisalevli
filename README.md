@@ -1,7 +1,8 @@
 <div align="center">
-<div align="center">
   <img src="https://ghchart.rshah.org/000000/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
 </div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
     <img src="assets/cover-light.svg" width="100%" alt="Melis Alevli, computer and management engineer and master's student. Cover with animated chrome liquid-metal spheres.">
@@ -21,8 +22,6 @@
 <td width="50%" valign="top">
 
 ### Editor's note
-
-I'm a computer engineer and management engineer, currently doing a Master of Science in Computer Science, focused on artificial intelligence, in the United States. I graduated from Bahçeşehir University with a double major in Computer Engineering and Management Engineering, and spent a semester at Coburg University of Applied Sciences in Germany on an Erasmus+ scholarship.
 
 I like work where data, AI and product thinking meet.
 
