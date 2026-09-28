@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://ghchart.rshah.org/000000/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
     <img src="assets/cover-light.svg" width="100%" alt="Melis Alevli, computer and management engineer and master's student. Cover with animated chrome liquid-metal spheres.">
   </picture>
 </div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/000000/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
+</div>
+
 
 <br>
 
@@ -25,7 +26,7 @@
 
 ### Where
 
-- Master of Science in Computer Science (concentration: AI), United States
+- Master of Science in Computer Science (AI), United States
 - Previously a full stack developer at **FlowQ**
 
 <br>
@@ -35,10 +36,7 @@
 
 <br>
 
-## Featured
-
-
-### Projects
+## Projects
 
 #### **Bunny Dive**
 > A web app that lets you explore Wikipedia through a branching trail of related topics, following a path of 14 topics before showing you the complete journey.
