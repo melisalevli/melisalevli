@@ -5,10 +5,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/000000/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
-</div>
-
 
 <br>
 
@@ -36,20 +32,23 @@
 
 <br>
 
+<div align="center">
+  <img src="https://ghchart.rshah.org/000000/melisalevli" alt="Melis's GitHub Contributions" width="100%" />
+</div>
+
+
 ## Projects
 
-#### **Bunny Dive**
+#### [**Bunny Dive**](https://github.com/melisalevli/bunny-dive)
 > A web app that lets you explore Wikipedia through a branching trail of related topics, following a path of 14 topics before showing you the complete journey.
 
-#### **FILTREAL**
-> An LLM project combining vision and language models to ensure transparency and reliability when accessing accurate information.
-
-#### **Telecom Churn Prediction**
+#### [**Telecom Churn Prediction**](https://github.com/melisalevli/capstone_churn)
 > Developed a scalable predictive model for customer churn, resolving class imbalance using **SMOTE, ADASYN, ROS, RUS,** and **SMOTE-ENN**.
 > Tuned **XGBoost, Random Forest, SVM,** and **ANN** models via Optuna and cross-validation, translating feature importance into actionable business strategies.
 
-#### **Talk 2-2**
+#### [**Talk 2-2**](https://github.com/melisalevli/talk2-2)
 > Web application that analyzes speech patterns using AI to deliver personalized communication feedback.
+
 
 <br>
 
