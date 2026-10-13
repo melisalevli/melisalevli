@@ -39,6 +39,9 @@
 
 ## Projects
 
+#### [**Feasto**](https://github.com/melisalevli/feasto)
+A recipe-planning web app that organizes recipes by ingredient availability, recommends ingredient substitutions, generates shopping lists, and helps users discover new recipes to simplify everyday meal planning.
+ 
 #### [**Bunny Dive**](https://github.com/melisalevli/bunny-dive)
 > A web app that lets you explore Wikipedia through a branching trail of related topics, following a path of 14 topics before showing you the complete journey.
 
