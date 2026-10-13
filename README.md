@@ -39,10 +39,10 @@
 
 ## Projects
 
-#### [**Feasto**](https://github.com/melisalevli/feasto)
+#### [**Feasto**](https://feasto.pages.dev)
 > A recipe-planning web app that organizes recipes by ingredient availability, recommends ingredient substitutions, generates shopping lists, and helps users discover new recipes to simplify everyday meal planning.
  
-#### [**Bunny Dive**](https://github.com/melisalevli/bunny-dive)
+#### [**Bunny Dive**](https://bunnydive.pages.dev)
 > A web app that lets you explore Wikipedia through a branching trail of related topics, following a path of 14 topics before showing you the complete journey.
 
 #### [**Telecom Churn Prediction**](https://github.com/melisalevli/capstone_churn)
