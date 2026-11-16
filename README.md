@@ -41,6 +41,9 @@
 
 #### [**Feasto**](https://feasto.pages.dev)
 > A recipe-planning web app that organizes recipes by ingredient availability, recommends ingredient substitutions, generates shopping lists, and helps users discover new recipes to simplify everyday meal planning.
+
+#### [**Sounre**](https://sounre.onrender.com)
+> A music discovery web app that analyzes a song's genre composition and recommends similar songs based on genre similarity. It allows users to listen to previews, and access streaming platforms, helping users find songs that match their musical taste.
  
 #### [**Bunny Dive**](https://bunnydive.pages.dev)
 > A web app that lets you explore Wikipedia through a branching trail of related topics, following a path of 14 topics before showing you the complete journey.
